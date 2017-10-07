@@ -1,0 +1,52 @@
+{
+	"ownerId": "123",
+	"name": "radhakrishnan",
+	"display_description": "3 bhk flat for family",
+	"contactDetails": {
+		"contactNo": "9042993310",
+		"landline_no": "044-234324",
+		"door_no": "157a",
+		"city": "chennai"
+	},
+	"propertyDetails": {
+		"ownerId": "123",
+		"propertyId": "P101",
+		"rentAmount": 4000,
+		"depositAmount": 20000,
+		"rentAmountRangeMinimum": 3000,
+		"rentAmountRangeMaximum": 6000,
+		"bhk": "2",
+		"squareFeet": 100,
+	"propertyAddressContactDetails": {
+		"contactNo": "9042993310",
+		"landline_no": "044-233233",
+		"door_no": "32",
+		"streetName": "kabilar st",
+		"area": "mgrnagar",
+		"city": "chennai",
+		"landMark": "siva temple",
+		"state": "tn",
+		"country": "india",
+		"pincode": "600078",
+		"alternateNo": "999999999",
+		"email": "radh@gmail.com"
+	},
+	"propertyOverview": {
+		"bedrooms": 2,
+		"postedon": "2017-10-01",
+		"bathrooms": 4,
+		"toiletType": "western",
+		"possesion": " ",
+		"lastUpdatedOn": "2017-10-07",
+		"furnishingStatus": "  ",
+		"floor": "2",
+		"description": "2bhk with good air flow",
+		"preferedtenant": "family",
+		"parking": "yes",
+		"fourWheelerParking": "yes",
+		"twoWheelerParking": "yes",
+		"lift": "yes",
+		"propertytype": "apartment"
+	}
+	}
+}
